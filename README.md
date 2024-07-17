@@ -20,5 +20,5 @@ AI Conversational Hub is a Django-based application that integrates multiple lan
 - MongoDB
 - Hugging Face Transformers
 - Django Rest Framework
-- Python Decouple
+
 
