@@ -1,4 +1,4 @@
-# AI-Conversational-Hub-Multi-Model-Interaction-and-Historical-Data-Storage-Integration
+# AI-Conversational-Hub-Multi-Model-Interaction-and-Data-Storage-Integration
 
 ## Overview
 
